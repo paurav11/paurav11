@@ -1,4 +1,5 @@
-# Hi, I'm Paurav Shah! 😊 🇮🇳
+# Hi, I'm Paurav Shah! 😊 🇮🇳 
+![Profile views](https://komarev.com/ghpvc/?username=paurav11&color=green)
 
 ### 🎓 I've graduated from SVIT, Vasad (Gujarat Technological University) with bachelor's in Computer Science Engineering.
 ### 💻 I've my hands on C, C++, Java, Python, Android, HTML, CSS, JavaScript, PHP, Node.js, ...
