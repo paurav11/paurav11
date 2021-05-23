@@ -9,7 +9,7 @@
 [1.5]: https://www.dropbox.com/s/qdvslw3a139sx22/WordPress.png?raw=1
 [1.6]: https://www.dropbox.com/s/neu4c8o3lzthhgf/Blogger.png?raw=1
 
-[1]: http://www.twitter.com/PauravNShah
+[1]: https://www.twitter.com/PauravNShah
 [2]: https://www.linkedin.com/in/paurav11
 [3]: https://www.facebook.com/paurav.shah.11
 [4]: https://www.instagram.com/paurav_11/
@@ -29,7 +29,7 @@ Hello, I'm an enthusiast who is currently sailing with the Web Technologies.
 
 ### ⚡ Checkout my Github Stats Card
 
-[![Paurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paurav11&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurav11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Paurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paurav11&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurav11&layout=compact&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 PS: You can also support my photography 📷 at [Unsplash](https://www.unsplash.com/@pauravshah), & [Pexels](https://www.pexels.com/@paurav-shah-11921304).
