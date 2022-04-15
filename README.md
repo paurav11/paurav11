@@ -21,11 +21,11 @@
 [8]: https://ps-travelxp.blogspot.com
 
 
-Hello, I'm an enthusiast who is currently sailing with the Web Technologies.
+Hello, I'm an enthusiast who is currently sailing with the Java Technologies.
 
 - 🎓 I've completed my Bachelor's Degree in Computer Science from Sardar Vallabhbhai Patel Institute of Technology (SVIT), Vasad - (Gujarat Technological University).
 
-- 💻 I'm currently learning Java & Web Technologies.
+- 💻 I'm currently learning Java, Java Frameworks & the Web Technologies.
 
 - 🔭 Looking forward to contribute in open-source projects this year.
 
