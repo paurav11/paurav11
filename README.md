@@ -31,11 +31,6 @@ Hello, I'm an enthusiast who is currently sailing with the Java Technologies.
 
 - 📫 Drop an email at pauravshah1999@gmail.com regarding any queries.
 
-### ⚡ Checkout my GitHub Stats Card
-
-[![Paurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paurav11&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurav11&layout=compact&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 PS: You can also support my photography 📷 at [Unsplash](https://www.unsplash.com/@pauravshah), & [Pexels](https://www.pexels.com/@paurav-shah-11921304).
 
 
