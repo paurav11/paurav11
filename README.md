@@ -25,7 +25,7 @@ Hello, I'm an enthusiast who is currently sailing with the Web Technologies.
 
 - 🎓 I've completed my Bachelor's Degree in Computer Science from Sardar Vallabhbhai Patel Institute of Technology (SVIT), Vasad - (Gujarat Technological University).
 
-<!--- 💻 I'm currently exploring HTML, CSS, JavaScript, Angular.js, React.js, PHP, Node.js, and WordPress.-->
+- 💻 I'm currently learning Java & Web Technologies.
 
 - 🔭 Looking forward to contribute in open-source projects this year.
 
