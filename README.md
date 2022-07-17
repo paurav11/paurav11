@@ -22,7 +22,7 @@ Hello, I'm an enthusiast who is currently sailing with the Java Technologies.
 | - | -------- | ------ | ----------- | -------- | -------------- | ---------- |
 | Checkout my contributions at: | &nbsp;&nbsp;&nbsp;&nbsp;[![Unsplash][1.10]][10] | &nbsp;[![Pexels][1.11]][11] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google Maps][1.12]][12] | &nbsp;&nbsp;&nbsp;[![Dribbble][1.13]][13] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Stack Overflow][1.28]][14] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HackerRank][1.29]][15] |
 
-PS: Download my latest app "BMI Calculator & History" from the Play Store [![Play Store][1.30]][16] now!
+PS: Download my latest app "BMI Calculator: History & More" from the Play Store [![Play Store][1.30]][16] now!
 
 [1.1]: https://www.dropbox.com/s/7p6c5r5mi768v8q/Twitter.png?raw=1
 [1.2]: https://www.dropbox.com/s/tji4pi6ieyf2ksj/LinkedIn.png?raw=1
