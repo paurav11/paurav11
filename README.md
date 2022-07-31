@@ -18,11 +18,11 @@ Hello, I'm an enthusiast who is currently sailing with the Java Technologies.
 | - | ------- | -------- | -------- | --------- | ----- | --------- | ------- | ----- |
 | Follow me on: | &nbsp;&nbsp;[![Twitter][1.1]][1] | &nbsp;&nbsp;&nbsp;[![LinkedIn][1.2]][2] | &nbsp;&nbsp;&nbsp;&nbsp;[![Facebook][1.3]][3] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram][1.4]][4] | &nbsp;&nbsp;[![Quora][1.5]][5] | &nbsp;&nbsp;&nbsp;&nbsp;[![Pinterest][1.6]][6] | &nbsp;&nbsp;&nbsp;[![Discord][1.7]][7] | &nbsp;[![Slack][1.8]][8] |
 
-|   | Unsplash | Pexels | Google Maps | Dribbble | Stack Overflow | HackerRank |
-| - | -------- | ------ | ----------- | -------- | -------------- | ---------- |
-| Checkout my contributions at: | &nbsp;&nbsp;&nbsp;&nbsp;[![Unsplash][1.10]][10] | &nbsp;[![Pexels][1.11]][11] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google Maps][1.12]][12] | &nbsp;&nbsp;&nbsp;[![Dribbble][1.13]][13] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Stack Overflow][1.28]][14] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HackerRank][1.29]][15] |
+|   | Unsplash | Pexels | Google Maps | Dribbble | Stack Overflow | HackerRank | Medium |
+| - | -------- | ------ | ----------- | -------- | -------------- | ---------- | ------ |
+| Checkout my contributions at: | &nbsp;&nbsp;&nbsp;&nbsp;[![Unsplash][1.10]][10] | &nbsp;[![Pexels][1.11]][11] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google Maps][1.12]][12] | &nbsp;&nbsp;&nbsp;[![Dribbble][1.13]][13] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Stack Overflow][1.28]][14] | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HackerRank][1.29]][15] | &nbsp;&nbsp;&nbsp;[![Medium][1.30]][16] |
 
-PS: Download my latest app "BMI Calculator: History & More" from the Play Store [![Play Store][1.30]][16] now!
+PS: Download my latest app "BMI Calculator: History & More" from the Play Store [![Play Store][1.31]][17] now!
 
 [1.1]: https://www.dropbox.com/s/7p6c5r5mi768v8q/Twitter.png?raw=1
 [1.2]: https://www.dropbox.com/s/tji4pi6ieyf2ksj/LinkedIn.png?raw=1
@@ -53,7 +53,8 @@ PS: Download my latest app "BMI Calculator: History & More" from the Play Store 
 [1.27]: https://www.dropbox.com/s/inucf10njhrksmi/React.png?raw=1
 [1.28]: https://www.dropbox.com/s/4meexw8bq89k6sv/Stack%20Overflow.png?raw=1
 [1.29]: https://www.dropbox.com/s/ji66bxsno1grv7m/HackerRank.png?raw=1
-[1.30]: https://www.dropbox.com/s/ldf9mz6p4oz8tqa/Play%20Store.png?raw=1
+[1.30]: https://www.dropbox.com/s/cs4reez7k3nehpv/Medium.png?raw=1
+[1.31]: https://www.dropbox.com/s/ldf9mz6p4oz8tqa/Play%20Store.png?raw=1
 
 [1]: https://www.twitter.com/PauravNShah
 [2]: https://www.linkedin.com/in/paurav11
@@ -70,7 +71,8 @@ PS: Download my latest app "BMI Calculator: History & More" from the Play Store 
 [13]: https://dribbble.com/Paurav
 [14]: https://stackoverflow.com/users/10050171/paurav-shah
 [15]: https://www.hackerrank.com/pauravshah
-[16]: https://play.google.com/store/apps/details?id=com.bmi.bmi_calc
+[16]: https://medium.com/@paurav11
+[17]: https://play.google.com/store/apps/details?id=com.bmi.bmi_calc
 
 <!--
 **paurav11/paurav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
