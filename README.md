@@ -1,11 +1,10 @@
 # Hi there, I'm [Paurav!](https://paurav11.github.io) 👋👨‍💻   ![Profile Views](https://komarev.com/ghpvc/?username=paurav11\&color=green)
 
-I'm a **Java Full Stack Developer** from India with **4+ years of experience** building scalable enterprise applications, microservices, and secure identity management solutions. I enjoy solving complex engineering challenges and creating high-quality software that delivers real business impact.
+I'm a **Java Full Stack Developer** from India building scalable enterprise applications, microservices, and secure identity management solutions. I enjoy solving complex engineering challenges and creating high-quality software that delivers real business impact.
 
 ### 🚀 About Me
 
-* 💼 Java Full Stack Developer at **eMudhra Limited**, contributing to enterprise products like **SECUREpass** and **CERTInext**.
-* 🔐 Passionate about **Cybersecurity**, **Identity & Access Management (IAM/PAM)**, **PKI**, and secure software engineering.
+* 💼 Java Full Stack Developer at **eMudhra Limited**, contributing to enterprise products.
 * ☁️ Exploring **Cloud-Native Development**, **Kubernetes**, **Docker**, and **AI-powered Developer Tools**.
 * 🌱 Continuously learning modern backend architecture, distributed systems, and scalable application design.
 * 🤝 Open to collaborating on **Java**, **Spring Boot**, **Cloud**, and **Open Source** projects.
@@ -18,7 +17,7 @@ I'm a **Java Full Stack Developer** from India with **4+ years of experience** b
 * 🔐 Developed automated SSL/TLS certificate lifecycle management and deployment solutions.
 * ⚡ Reduced manual certificate management efforts by **50%** through automation.
 * 📈 Improved enterprise product performance by **75%** through architecture and code optimizations.
-* 🏦 Successfully delivered enterprise solutions for clients including **State Bank of India (SBI)**.
+* 🏦 Successfully delivered enterprise solutions for domestic and global clients.
 
 ---
 
